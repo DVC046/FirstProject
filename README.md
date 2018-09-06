@@ -1,5 +1,3 @@
-# FirstProject
+# FirstProject_README
 
-Teszt
-
-test commit1
+06.09.2018
